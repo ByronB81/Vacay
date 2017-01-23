@@ -1,7 +1,12 @@
+.jumbotron {
+  background-color: mediumturquoise;
+}
+
 .jumbotron h1 {
   font-size: 5em;
   font-weight: lighter;
   text-align: center;
+  background-color: yellow;
 }
 
 img.center {
