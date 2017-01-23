@@ -4,3 +4,27 @@ img.center {
   margin-right: auto;
   padding-bottom: 2em;
 }
+
+ol li{
+  color: green
+}
+
+.boss {
+  font-weight: bold;
+}
+
+ul li {
+  color: brown;
+}
+
+h3 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+body {
+  background-color: PaleTurquoise;
+}
