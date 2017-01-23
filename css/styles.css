@@ -17,6 +17,14 @@ ul li {
   color: brown;
 }
 
+footer {
+  text-align: right;
+}
+
+blockquote {
+  padding-bottom: 2em;
+}
+
 h3 {
   text-align: center;
 }
