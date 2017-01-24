@@ -2,6 +2,10 @@
   background-color: mediumturquoise;
 }
 
+.jumbotron p {
+    text-align: center;
+}
+
 .jumbotron h1 {
   font-size: 5em;
   font-weight: lighter;
